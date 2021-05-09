@@ -8,7 +8,7 @@ Before working on this project, let’s have a look at the prerequisites:
 - Python
 - TensorFlow
 - TensorBoard
-- Protobuf v3.4 or above
+- Protobuf v3 or above
 - 
 ### Steps For Installation - 
 
@@ -28,7 +28,7 @@ pip install tensorflow-gpu
 - pip install jupyter
 - pip install matplotlib
 
-(2) Next Download Protobuf version 3.4 or above  and extract it.
+(2) Next Download Protobuf latest version and extract it.
 
 https://github.com/google/protobuf/releases 
 
