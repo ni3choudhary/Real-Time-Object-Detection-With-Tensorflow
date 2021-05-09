@@ -21,14 +21,14 @@ pip install tensorflow-gpu
 
 #### For all the other libraries, we can use pip or conda to install them. The code is provided below:
 
-pip install Cython
-pip install contextlib2
-pip install pillow
-pip install lxml
-pip install jupyter
-pip install matplotlib
+- pip install Cython
+- pip install contextlib2
+- pip install pillow
+- pip install lxml
+- pip install jupyter
+- pip install matplotlib
 
-(2) First Download Protobuf version 3.4 or above  and extract it.
+(2) Next Download Protobuf version 3.4 or above  and extract it.
 
 https://github.com/google/protobuf/releases 
 
