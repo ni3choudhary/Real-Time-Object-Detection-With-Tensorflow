@@ -57,7 +57,7 @@ To check whether this worked or not, you can go to the protos folder inside mode
 - cd into the root directory where setup.py is located.
 - Enter: python setup.py install
 
-(7) Now create a python ipynb or .py file inside research directory.
+(7) Now create a python ipynb or .py(object_detection_webcam) file inside research directory.
 
 (8) run python file.
 
